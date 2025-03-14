@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-10 02:11:23
+# UPDATED: 2025-03-14 02:13:10
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 31197
@@ -18150,6 +18150,7 @@ payload:
   - '+.ppe.lawyer'
   - '+.pplah.com'
   - '+.pplusstatic.com'
+  - '+.pplx.ai'
   - '+.ppp91.cc'
   - '+.pppds.com'
   - '+.ppre.ac.uk'
@@ -18404,7 +18405,6 @@ payload:
   - '+.qgadmin.qatp1.net'
   - '+.qgadmin.qcpp1.net'
   - '+.qgadmin.qpdp1.net'
-  - '+.qiao-cn.com'
   - '+.qinav.com'
   - '+.qingenporn.net'
   - '+.qingse.one'

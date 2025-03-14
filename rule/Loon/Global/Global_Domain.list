@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-10 02:11:22
+# UPDATED: 2025-03-14 02:13:09
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 31197
@@ -22170,6 +22170,7 @@
 .ppe.lawyer
 .pplah.com
 .pplusstatic.com
+.pplx.ai
 .ppp91.cc
 .pppds.com
 .ppre.ac.uk
@@ -22517,7 +22518,6 @@
 .qiangwaikan.com
 .qiangyou.org
 .qianmo.tw
-.qiao-cn.com
 .qidian.ca
 .qienkuen.org
 .qinav.com
